@@ -1,3 +1,4 @@
-<header class="bg-dark text-white p-3 mb-4">
-    <h1>I miei film su Laravel</h1>
+{{-- Header --}}
+<header class="bg-primary text-white p-5">
+    <h1 class="container mb-0">I miei film su Laravel</h1>
 </header>
